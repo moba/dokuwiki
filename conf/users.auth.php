@@ -9,4 +9,4 @@
 # user:MD5password:Real Name:email:groups,comma,seperated
 
 
-admin:098f6bcd4621d373cade4e832627b4f6:admin:admin@localhost:admin,user
+admin:21232f297a57a5a743894a0e4a801fc3:admin:admin@localhost:admin,user
