@@ -8,3 +8,4 @@ DokuWiki - 2004-2010 (c) Andreas Gohr <andi@splitbrain.org>
                          and the DokuWiki Community
 See COPYING and file headers for license info
 
+This is a fork that is used by Moritz Bartl to set up his sites. Use with care. Will set up a default user admin/admin, dokuwiki title "default", enable .htaccess pretty URLs, and set site license to public domain.
