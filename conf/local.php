@@ -15,7 +15,7 @@ $conf['deaccent'] = '2';
 $conf['useacl'] = 1;
 $conf['superuser'] = '@admin';
 $conf['userewrite'] = '1';
-$conf['tpl']['minimal']['hide-login-block'] = 1;
+$conf['tpl']['minimal']['hide-login-block'] = 0;
 $conf['tpl']['minimal']['footer-text'] = 'a <a href="http://www.headstrong.de">headstrong</a> venture';
 
 // end auto-generated content
