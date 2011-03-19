@@ -590,6 +590,8 @@ function checkwordblock($text=''){
  * @author Andreas Gohr <andi@splitbrain.org>
  */
 function clientIP($single=false){
+    global $conf;
+    if ($conf['removeips']) return '0.0.0.0';
     $ip = array();
     $ip[] = $_SERVER['REMOTE_ADDR'];
     if(!empty($_SERVER['HTTP_X_FORWARDED_FOR']))

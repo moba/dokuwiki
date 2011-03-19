@@ -18,4 +18,6 @@ $conf['userewrite'] = '1';
 $conf['tpl']['minimal']['hide-login-block'] = 1;
 $conf['tpl']['minimal']['footer-text'] = 'a <a href="http://www.headstrong.de">headstrong</a> venture';
 
-// end auto-generated content 
+// end auto-generated content
+
+$conf['removeips'] = 1; 
