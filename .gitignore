@@ -1,11 +1,11 @@
-#/conf/*.local.conf
-#/conf/acl.auth.php
-#/conf/local.php
-#/conf/local.protected.php
-#/conf/users.auth.php
-#/conf/user*.css
-#/conf/user*.js
-#/conf/words.aspell
+/conf/*.local.conf
+/conf/acl.auth.php
+/conf/local.php
+/conf/local.protected.php
+/conf/users.auth.php
+/conf/user*.css
+/conf/user*.js
+/conf/words.aspell
 .htaccess
 *.swp
 *.bak
@@ -19,5 +19,5 @@
 /data/meta/*
 /data/pages/*
 /data/tmp/*
-/lib/tpl/*
+#/lib/tpl/*
 /lib/plugins/*
