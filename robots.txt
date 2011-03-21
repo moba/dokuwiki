@@ -1,0 +1,5 @@
+# hello bot. please leave my images alone
+User-agent: *
+Disallow: /images/
+User-agent: Googlebot-Image
+Disallow: / 
