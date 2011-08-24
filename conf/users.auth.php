@@ -9,4 +9,4 @@
 # user:MD5password:Real Name:email:groups,comma,seperated
 
 
-admin:21232f297a57a5a743894a0e4a801fc3:admin:admin@localhost:admin,user
+moritz:$1$$Owr7MKraLvar0TS2MooUT1:moritz:moritz@headstrong.de:admin,user
