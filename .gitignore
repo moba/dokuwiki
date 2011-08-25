@@ -38,3 +38,4 @@ lib/plugins/*
 !lib/plugins/admin.php
 !lib/plugins/index.html
 !lib/plugins/syntax.php
+!lib/plugins/anonip
